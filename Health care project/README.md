@@ -475,7 +475,7 @@ Healthcare-Data-Analysis/
 
 # 📷 Dashboard Preview
 
-Add your final dashboard screenshot here:
+Add your final dashboard screenshot here: https://drive.google.com/file/d/18Q75ukw5zUvhS71gE4JqgqxGZt-_02Ae/view?usp=sharing
 
 ```markdown
 ![Healthcare Dashboard](Screenshots/Healthcare-Dashboard.png)
